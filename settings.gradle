@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Kotlin_Intercepting_Back_2Activities"
